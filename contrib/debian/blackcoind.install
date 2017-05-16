@@ -1,0 +1,2 @@
+debian/bin/venusd usr/bin
+src/venusd usr/lib/venus

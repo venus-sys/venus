@@ -1,0 +1,9 @@
+Building Venus
+
+See doc/readme-qt.rst for instructions on building Venus QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Venus.
+
+See doc/build-*.txt for instructions on building venusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Venus.

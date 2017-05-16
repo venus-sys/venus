@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Venus
+Comment=Venus P2P Cryptocurrency
+Comment[fr]=Venus, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Venus, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/venus-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/venus;
+Categories=Office;
